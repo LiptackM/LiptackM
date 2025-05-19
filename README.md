@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collaborate on better test code and cleaner code<br>My background is in cloud tech and back end coding<br>I love working with all sorts of engineers<br>fun fact:  I contributed to remote dbs on usenet newsgroups way back when
+I'm looking to collaborate on better and cleaner code<br>My background is in cloud tech and back end coding<br>I love working with all sorts of engineers<br>fun fact:  I contributed to remote dbs on usenet newsgroups way back when.
 
 
 ## 🌐 Socials:
